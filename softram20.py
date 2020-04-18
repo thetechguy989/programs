@@ -52,7 +52,7 @@ def installation():
     product()
     print("Thank you for installing SoftRAM20.")
     launch()
-#
+##
 def time():
     print("Installing.")
     sleep(1)
